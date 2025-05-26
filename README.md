@@ -32,7 +32,7 @@ Cada exercício está organizado em pacotes e classes específicas para facilita
 
 ## Sobre a Turma
 
-**Fametro Centro Universitário Fametro**
+**Centro Universitário Fametro**
 
 Curso: **Sistemas de Informação**  
 Período: **3º período**  
