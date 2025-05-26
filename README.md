@@ -2,7 +2,7 @@
 
 Bem-vindo(a) à **lista de exercícios de Programação Orientada a Objetos (POO) em Java** da **Centro Universitário Fametro - Turma de Sistemas de Informação (3º Período)**!
 
-*Aluno: Guilherme Maia Bezerra**
+**Aluno: Guilherme Maia Bezerra**
 
 ---
 
